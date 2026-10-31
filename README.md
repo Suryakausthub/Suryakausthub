@@ -3,7 +3,7 @@
 **Backend engineer at Publicis Sapient** building enterprise systems for large clients. I work across **Java/Spring Boot** backends and the **Docker → Kubernetes → Jenkins** delivery pipeline, and I'm focused on distributed, event-driven systems for financial services.
 
 - 💼 System Engineer @ Publicis Sapient - deploying and running client platforms with Docker, Kubernetes and Jenkins
-- 🔭 Currently building: **Payments Ledger Service**, a Spring Boot ledger with idempotent transfers, JWT auth, and Testcontainers tests
+- 🔭 Next up: **a Java limit order book / matching engine** with price-time priority, JUnit tests and latency benchmarks
 - 🌱 Learning: Apache Kafka, GCP, Kubernetes
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/surya-kausthub-85352b274/)
 
@@ -26,9 +26,11 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| Payments Ledger Service *(in progress)* | Double-entry ledger with idempotent transfer API, optimistic locking, audit trail | Java 21 · Spring Boot 3 · PostgreSQL · JWT · Docker |
-| Trade Event Pipeline *(coming soon)* | Kafka pipeline simulating trade booking → settlement, with DLQ and monitoring | Kafka · Spring Boot · Prometheus · GCP |
-| Risk & Fraud Dashboard *(coming soon)* | Live positions and flagged transactions over the two services above | React · Python |
+| [Job Agent](https://github.com/Suryakausthub/Agent) | Job-application copilot: scores fit, tailors your resume, verifies every claim, builds a one-page PDF | FastAPI, React, Groq LLM |
+| [DeepfakeShield](https://github.com/Suryakausthub/deepfakeshield) | Multimodal deepfake detection and social-network forensics | Python, ML, computer vision |
+| [Doc Insight](https://github.com/Suryakausthub/doc-insight) | Upload PDF resumes, get AI summaries with a keyword fallback | FastAPI, React, Docker |
+| [Performance Dashboard](https://github.com/Suryakausthub/performance-data-dashboard) | Real-time dashboard for 10,000+ live data points at 60 FPS | Next.js 14, TypeScript |
+| [Book Management API](https://github.com/Suryakausthub/Golang-With-MySQL-Book-Management-System) | REST API for managing books | Go, MySQL |
 
 ---
 
