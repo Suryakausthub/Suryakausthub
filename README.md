@@ -1,10 +1,10 @@
 # Hi, I'm Surya Kausthub 👋
 
-**Backend engineer at Publicis Sapient** building enterprise systems for large clients. I work across **Java/Spring Boot** backends and the **Docker → Kubernetes → Jenkins** delivery pipeline, and I'm focused on distributed, event-driven systems for financial services.
+**System Engineer at Publicis Sapient** and B.Tech CSE graduate (Amrita Vishwa Vidyapeetham, 2026). I build backend and data systems in Java, Python and SQL, and ship them with Docker, Kubernetes and Jenkins. Before Sapient, I built AI backend systems at New Street Tech.
 
-- 💼 System Engineer @ Publicis Sapient - deploying and running client platforms with Docker, Kubernetes and Jenkins
+- 💼 System Engineer @ Publicis Sapient | previously AI Backend Engineering Intern @ New Street Tech (LLM/RAG data platform, 50+ enterprise use cases)
 - 🔭 Next up: **a Java limit order book / matching engine** with price-time priority, JUnit tests and latency benchmarks
-- 🌱 Learning: Apache Kafka, GCP, Kubernetes
+- 🌱 Competitive programming: Codeforces Expert, CodeChef 4-star, ICPC Asia West Regionalist 2025
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/surya-kausthub-85352b274/)
 
 ---
